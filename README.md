@@ -18,8 +18,6 @@ svd_power_method/
 
 ## Files Content
 
-## Installation and Usage Instructions
-
 ### 1. Setup
 ```bash
 pip install -r requirements.txt
